@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mimod:block/some_block"
+    }
+  }
+}
